@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "You Tube music videos search",
   "main": "index.js",
-  "repository": "",
+  "repository": "https://github.com/websdone/React-youtube",
   "scripts": {
-    "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
+    "start": "start",
     "test": "mocha --compilers js:babel-core/register --require ./test/test_helper.js --recursive ./test",
     "test:watch": "npm run test -- --watch"
   },
