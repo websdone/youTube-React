@@ -1,0 +1,22 @@
+body {
+	background-color: rgba( 255, 153, 0, 0.5) !important; 
+}
+.searchBar, .searchBox {
+	margin: 10px auto;
+    width: 72%;
+    display: inline-block;
+}
+p.search {
+	width: auto;
+    display: inline-block;
+    margin: 0 13px;
+}
+.list-group-item {
+	cursor: pointer;
+}
+.list-group-item:hover {
+	background-color: rgba( 255, 153, 0, 0.5); 
+}
+.details {
+	padding-top: 12px;
+}
