@@ -1,3 +1,5 @@
 # React-youtube
-Learning project using  Google API
-YouTube Data API v3 to search and play YouTube videos 
+
+Starter project developed with React, YouTube Data API v3 
+
+Search and play YouTube videos
